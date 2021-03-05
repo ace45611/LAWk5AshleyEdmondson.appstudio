@@ -1,3 +1,4 @@
+/*
 //program uses a 'while' loop and outputs each iteration to the console
 i = 0
 let iterations = false
@@ -7,3 +8,4 @@ while (iterations == false) {
     i++
     iterations = confirm("Are you done?")
 }
+*/
